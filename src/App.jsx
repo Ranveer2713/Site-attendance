@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import AddWorker from './components/Addworker';
+import AddWorker from './components/AddWorker';
 import DailyAttendance from './components/DailyAttendance';
 import WageSummary from './components/WageSummary';
 
